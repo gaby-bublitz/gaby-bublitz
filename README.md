@@ -1,7 +1,7 @@
 
 # 💻 Gabrielly Francini Bublitz
 
-**`Desenvolvedora FullStack`**
+**`FullStack`**
 
 Me chamo Gabrielly Francini Bublitz, tenho 16 anos e sou natural de Santa Catarina. Atualmente, estou no 1° ano do Ensino Médio na FURB (ETEVI) - simultaneamente, concluí cursos de Lógica de Programação e Fullstack. Estou na busca constante de conhecimento e experiência.
 
