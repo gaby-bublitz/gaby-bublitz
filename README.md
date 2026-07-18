@@ -7,7 +7,7 @@ Me chamo Gabrielly Francini Bublitz, tenho 16 anos e sou natural de Santa Catari
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚜ Linguagens e Tecnologias 
 
 <img 
     align="left" 
